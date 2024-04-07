@@ -1,0 +1,22 @@
+.placement {
+    background-color: #cedff1;
+    width: 100%;
+    min-height: 50vh;
+    color: #000000;
+}
+
+.assi {
+    font-size: 30px;
+    color: #000000;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 30px;
+    padding-top: 50px;
+}
+
+.placement hr {
+    background-color: purple;
+    border: none;
+    height: 4px;
+    margin-bottom: 30px;
+}

@@ -1,0 +1,20 @@
+.indigo {
+    background-color: #5491d0;
+    width: 100%;
+    min-height: 50vh;
+    color: #000000;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.learn {
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.heading p {
+    font-size: 20px;
+    margin-top: 20px;
+}

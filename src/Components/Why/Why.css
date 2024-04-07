@@ -1,0 +1,89 @@
+.why{
+    background-color: #D3D3D3;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    min-height: 100vh;
+}
+
+.headig-text {
+    text-align: center;
+    max-width: 800px;
+    justify-content: center;
+}
+
+.heading-text hr {
+    background-color: purple;
+    border: none;
+    height: 4px;
+}
+
+.why h1 {
+    font-size: 30px;
+    text-align: center;
+    width: 100%;
+}
+
+.card {
+    background-color: #D3D3D3;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 80px;
+}
+
+.card1 {
+    background-color: #aaa7ad;
+    width: 300px;
+    margin: 20px;
+    height: 300px;
+    text-align: center;
+    justify-content: center;
+}
+
+.choose {
+    width: 50px;
+    margin-left: 10px;
+    padding-top: 40px;
+    padding-bottom: 10px;
+}
+
+.card1 h2 {
+    color: purple;
+    padding-bottom: 10px;
+}
+
+.card1 p {
+    padding: 10px;
+}
+
+.sub {
+    background-color: #D3D3D3;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 80px;
+}
+
+.card2 {
+    background-color: #c5c6c7;
+    width: 200px;
+    margin: 20px;
+    height: 100px;
+    text-align: center;
+    justify-content: center;
+    box-shadow: 5px 5px;
+}
+
+.card2 h2{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.card2 p {
+    text-align: center;
+}
